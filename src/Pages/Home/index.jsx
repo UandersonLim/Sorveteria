@@ -1,14 +1,14 @@
-import Header from "../../Components/Header";
-import Main from "../../Components/Main";
-import BannerHome from "../../Components/Banner-Home/";
-import Footer from "../../Components/Footer";
+import Header from "../../Components/PageHome/Header";
+import Main from "../../Components/PageHome/Main";
+import BannerHome from "../../Components/PageHome/Banner-Home";
+import Footer from "../../Components/PageHome/Footer";
 const Home = () => {
   return (
     <>
       <Header />
       <BannerHome />
       <Main />
-      <Footer/>
+      <Footer />
     </>
   );
 };

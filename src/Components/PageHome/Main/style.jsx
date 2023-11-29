@@ -9,8 +9,7 @@ const SectionContent = styled.section`
   }
 `;
 
-
-//Card 
+//Card
 const Card = styled.div`
   display: flex;
   width: 100vw;
@@ -58,20 +57,32 @@ const Card = styled.div`
     align-items: center;
     width: 100%;
 
-    figure{
-        width: 100%;
-        height: 80vh;
+    figure {
+      width: 100%;
+      height: 80vh;
     }
 
-    .Text_Main{
-        width: 100%;
-        height: 80vh;
+    .Text_Main {
+      width: 100%;
+      height: 80vh;
     }
 
     .Inversion_column {
       flex-direction: column-reverse;
       display: flex;
       align-items: center;
+    }
+  }
+
+  @media (max-width: 550px) {
+    .Text_Main {
+      text-align: center;
+      padding: 0 3rem;
+      height: 60vh;
+    }
+
+    figure {
+      height: 70%;
     }
   }
 `;

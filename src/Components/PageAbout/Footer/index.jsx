@@ -1,17 +1,17 @@
 import { FooterHome, Footer_End } from "./style";
 
-const Footer = () => {
+const Footer_About = () => {
   return (
     <div>
       <FooterHome>
         <figure>
-          <img src="assets/imagens/logo.png" />
+          <img src="assets/imagens/logo.png" title="Logo-Gelateria" alt="Logo-Gelateria"/>
         </figure>
         <address className="title_address">
-            <h5>ENDEREÇO</h5>
-            <p>
-                 Av. Bernardino de Campos, 98<br></br> São Paulo, SP 12345-678
-            </p>
+          <h5>ENDEREÇO</h5>
+          <p>
+            Av. Bernardino de Campos, 98<br></br> São Paulo, SP 12345-678
+          </p>
         </address>
         <address>
           <ul>
@@ -35,4 +35,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default Footer_About;
