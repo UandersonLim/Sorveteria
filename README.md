@@ -25,7 +25,7 @@
     <img src="./README/Sabores.png"/>    
     <img src="./README/SOBRE.png"/>
     <br></br>
-    <a href="https://sorveteria-seven.vercel.app/"><img src="./README/Botao.png"/></a>
+    <a href="https://sorveteria-seven.vercel.app/" target="_blank"><img src="./README/Botao.png"/></a>
     </div>
     
     </html>
