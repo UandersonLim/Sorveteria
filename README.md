@@ -23,8 +23,9 @@
     <div>
     <img src="./README/Home.png"/>    
     <img src="./README/Sabores.png"/>    
-    <img src="./README/SOBRE.png"/>    
+    <img src="./README/SOBRE.png"/>
+    <br></br>
+    <a href="https://sorveteria-seven.vercel.app/Flavors" style="padding: 10px 15px; background-color: #F5DEB3; border: 1px solid #000; border-radius: 10px; color: #000; text-decoration: none">Navegue até o projeto.</a>
     </div>
-    <a href="https://sorveteria-seven.vercel.app/Flavors"><button>Navegue até o projeto.</button></a>
     
     </html>
