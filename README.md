@@ -25,7 +25,7 @@
     <img src="./README/Sabores.png"/>    
     <img src="./README/SOBRE.png"/>
     <br></br>
-    <a href="https://sorveteria-seven.vercel.app/Flavors" ><p style="padding: 10px 15px; background-color: #F5DEB3; border: 1px solid #000; border-radius: 10px; color: #000; text-decoration: none; text-align: center;">Navegue até o projeto.<p></a>
+    <a href="https://sorveteria-seven.vercel.app/Flavors"><img src="./README/Botao.png"/></a>
     </div>
     
     </html>
