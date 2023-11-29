@@ -1,6 +1,3 @@
-<html>
-<img src="./README/Estudos.jpg" width='100'/>
-
 # Projeto Sorveteria
 
 - Esse projeto, foi desenvolvido para testar minhas habilidades em organização,como clean code, uso correto de tags semânticas, o uso de Rotas e responsividade.
@@ -19,12 +16,9 @@
   - Styled-componenents na estilização.
   - React Router (SPA), para navegação de páginas internas.
 
-    
+    <html>
     <div>
-    <img src="./README/Home.png"/>    
-    <img src="./README/Sabores.png"/>    
-    <img src="./README/SOBRE.png"/>    
+        <img/>    
     </div>
-    <a href="https://sorveteria-seven.vercel.app/Flavors"><button>Navegue até o projeto.</button></a>
     
     </html>
